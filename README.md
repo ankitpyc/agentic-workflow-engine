@@ -6,6 +6,9 @@ The **Agentic Workflow Engine** is a critical evolution of existing linear, proc
 
 At its core, this project transforms rigid workflows into adaptable Directed Acyclic Graphs (DAGs), replaces simple artifact passing with a rich "Context Bus" for structured knowledge sharing, and introduces a meta-persona, the `Quality-Analyst`, for proactive self-correction and continuous improvement.
 
+<img width="2816" height="1536" alt="Architecture" src="https://github.com/user-attachments/assets/045c9dc6-aad5-4b8e-83c2-7118f8d10e3a" />
+
+
 ## Why This Project? What It Does
 
 Traditional AI agent workflows often suffer from rigidity, sequential bottlenecks, and a lack of intelligent self-correction. As AI-driven tasks become more complex, the need for a robust, adaptable, and self-optimizing orchestration layer becomes paramount.
